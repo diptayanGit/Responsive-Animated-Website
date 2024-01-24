@@ -1,6 +1,7 @@
+// for smooth scrolling
 const scroll = new LocomotiveScroll({
     el: document.querySelector('#main'),
-    smooth: false
+    smooth: true
 });
 
 // page3 fixedImgAnimation
